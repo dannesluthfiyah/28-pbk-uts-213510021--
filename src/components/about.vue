@@ -1,6 +1,6 @@
 <template>
     <div class="about">
-      <img src="../assets/LOGO3D.png" alt="Gambar tentang kami" class="about-image">
+      <img src="https://github.com/dannesluthfiyah/28-pbk-uts-213510021/blob/master/LOGO3D.png" alt="Gambar tentang kami" class="about-image">
       <div class="about-content">
         <h1>Merupakan Aplikasi Produktivitas berbasis web terbaik.</h1>
         <p>Untuk mengatur pekerjaan dan kehidupan kamu.</p>
