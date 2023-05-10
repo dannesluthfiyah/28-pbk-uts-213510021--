@@ -1,7 +1,7 @@
 <template>
     <div class="todo-app">
       <div class="center">
-        <img src="https://github.com/dannesluthfiyah/28-pbk-uts-213510021/blob/master/LOGO3D.png" alt="Gambar contoh">
+        <img src="LOGO3D.png" alt="Gambar contoh">
         <h1>Daftar Tugas</h1>
       </div>
       <form @submit.prevent="addTodo">
