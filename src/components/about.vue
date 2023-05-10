@@ -1,12 +1,13 @@
 <template>
     <div class="about">
-      <img src="https://imgur.com/PFfjXWW" alt="Gambar tentang kami" class="about-image">
+      <img src="https://iili.io/HUn3zlV.png" alt="Gambar tentang kami" class="about-image">
       <div class="about-content">
         <h1>Merupakan Aplikasi Produktivitas berbasis web terbaik.</h1>
         <p>Untuk mengatur pekerjaan dan kehidupan kamu.</p>
       </div>
     </div>
   </template>
+  
   
   
   <style>
